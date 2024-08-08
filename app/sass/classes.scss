@@ -1,0 +1,35 @@
+.flex-around {
+    @apply flex items-center justify-around gap-2 md:gap-4;
+}
+
+.flex-between {
+    @apply flex items-center justify-between gap-2 md:gap-4;
+}
+
+.flex-evenly {
+    @apply flex items-center justify-evenly gap-2 md:gap-4;
+}
+
+.flex-start {
+    @apply flex items-start justify-start gap-2 md:gap-4;
+}
+
+.flex-center {
+    @apply flex items-center justify-center gap-2 md:gap-4;
+}
+
+.flex-end {
+    @apply flex items-end justify-end gap-2 md:gap-4;
+}
+
+.lg\:flex-between {
+    @apply flex gap-2 md:gap-4 lg:items-center lg:justify-between;
+}
+
+.md\:flex-between {
+    @apply flex gap-2 md:items-center md:justify-between md:gap-4;
+}
+
+.sm\:flex-between {
+    @apply flex gap-2 sm:items-center sm:justify-between sm:gap-4;
+}

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "66a1c8d188c1994843622d4e"
+  },
+  "userId": "user_2j3rIBXUtiBG05B68QruVwHoTx3",
+  "name": "Food",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1c8d988c1994843622d51"
+  },
+  "userId": "user_2j3rIBXUtiBG05B68QruVwHoTx3",
+  "name": "Travile",
+  "__v": 0
+}]
