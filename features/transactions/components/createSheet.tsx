@@ -7,7 +7,6 @@ import { Sheet, SheetContent } from "@/ui/sheet";
 import { useCreateModel } from "../hooks/useCreateModel";
 import { useCreateTransaction } from "../api/useCreateTransaction";
 import { Header } from "./header";
-import { Form } from "./form";
 
 export const CreateTransactionSheet = () => {
     const { isOpen, onClose } = useCreateModel();

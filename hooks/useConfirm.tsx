@@ -1,7 +1,8 @@
 "use client";
+import { useState } from "react";
+
 import { Button } from "@/ui/button";
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/ui/dialog";
-import { useState } from "react";
 
 type PromiseProps = {
     resolve: (value: boolean) => void;
